@@ -27,7 +27,7 @@ SpaceX Explorer is a web app providing detailed insights into SpaceX launches, r
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/adilkhan1990/ARCHTechTest.git
-   cd spacex-explorer
+   cd ARCHTechTest
    ```
 
 2. **Install dependencies:**
